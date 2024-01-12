@@ -1,0 +1,10 @@
+let worl = document.getElementById("wor");
+// console.log(wor);
+worl.style.color = "blue";
+worl.style.backgroundColor = "yellow";
+worl.style.margin = "20px";
+worl.style.padding = "20px";
+worl.style.fontSize = "18px";
+worl.style.fontWeight = "bold";
+worl.style.height = "200px";
+worl.style.width = "300px";
